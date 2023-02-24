@@ -1,0 +1,4 @@
+TODO: Task 1 - Write the mongo import command here
+mongoimport --host=localhost --port=27017 \
+--db=cuisines --collection=restaurants \
+--jsonArray ./restaurants.json

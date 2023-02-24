@@ -1,0 +1,11 @@
+.cuisine {
+    padding: 5px;
+    margin: 3px;
+    border: 1px lightgray solid;
+    border-radius: 5px;
+}
+  
+.cuisine:hover {
+background-color: lightblue;
+}
+  
